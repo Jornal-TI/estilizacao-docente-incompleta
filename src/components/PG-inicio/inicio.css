@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@1,500&display=swap');
+
+
+.background-data {
+    background-color: rgb(255, 255, 255);
+
+}
+
+#logo {
+    height: 120px;
+}
+
+
+
+.data-docente {
+    display: flex;
+    background-color: rgb(15, 76, 112);
+    color: rgb(247, 248, 252);
+    font-size: 25px;
+    font-family: monospace;
+    height: 100px;
+    font-weight: bolder;
+    align-items: baseline;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: stretch;
+    justify-content: space-evenly
+   
+}
+/* 
+.clock p {
+    margin-right: 20px;
+    font-size: 30px;
+    font-family: 'Noto Sans', sans-serif;
+    border-radius: 100px;
+
+} */
+
+
+.logo {
+    margin-left: 20px;
+    height: 100px;
+}
+
+/* .h1-docente h1{
+    margin-right: 950px;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 75px;
+} */
+
+.home-docente{
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    background-color: transparent;
+    width: 100px;
+    margin-left: 1120px;
+}
+
+.home-docente :hover{
+    color: rgb(228, 131, 5);
+    transition: 0.5s;
+}
